@@ -1,0 +1,15 @@
+C:\Test_git\sdk_2024_console\Appli1\Bienvenue C#\bin\Debug\net8.0\Bienvenue C#.exe
+C:\Test_git\sdk_2024_console\Appli1\Bienvenue C#\bin\Debug\net8.0\Bienvenue C#.deps.json
+C:\Test_git\sdk_2024_console\Appli1\Bienvenue C#\bin\Debug\net8.0\Bienvenue C#.runtimeconfig.json
+C:\Test_git\sdk_2024_console\Appli1\Bienvenue C#\bin\Debug\net8.0\Bienvenue C#.dll
+C:\Test_git\sdk_2024_console\Appli1\Bienvenue C#\bin\Debug\net8.0\Bienvenue C#.pdb
+C:\Test_git\sdk_2024_console\Appli1\Bienvenue C#\obj\Debug\net8.0\Bienvenue C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test_git\sdk_2024_console\Appli1\Bienvenue C#\obj\Debug\net8.0\Bienvenue C#.AssemblyInfoInputs.cache
+C:\Test_git\sdk_2024_console\Appli1\Bienvenue C#\obj\Debug\net8.0\Bienvenue C#.AssemblyInfo.cs
+C:\Test_git\sdk_2024_console\Appli1\Bienvenue C#\obj\Debug\net8.0\Bienvenue C#.csproj.CoreCompileInputs.cache
+C:\Test_git\sdk_2024_console\Appli1\Bienvenue C#\obj\Debug\net8.0\Bienvenue C#.sourcelink.json
+C:\Test_git\sdk_2024_console\Appli1\Bienvenue C#\obj\Debug\net8.0\Bienvenue C#.dll
+C:\Test_git\sdk_2024_console\Appli1\Bienvenue C#\obj\Debug\net8.0\refint\Bienvenue C#.dll
+C:\Test_git\sdk_2024_console\Appli1\Bienvenue C#\obj\Debug\net8.0\Bienvenue C#.pdb
+C:\Test_git\sdk_2024_console\Appli1\Bienvenue C#\obj\Debug\net8.0\Bienvenue C#.genruntimeconfig.cache
+C:\Test_git\sdk_2024_console\Appli1\Bienvenue C#\obj\Debug\net8.0\ref\Bienvenue C#.dll
