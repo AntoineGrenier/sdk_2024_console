@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/ApplicationConsoleSdk2024/x64/Debug
+/.vs
+/ApplicationConsoleSdk2024/.vs/ApplicationConsoleSdk2024
